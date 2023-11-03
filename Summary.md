@@ -7,3 +7,5 @@ Initially, the motor used was a standard brushed DC micro-motor. Due to time lim
   This motor was found to be insufficient in torque.
 
 A second attempt using a brushless drone motor was made. Although much better in performance, it still lacked the necessary torque to balance the pendulum.
+
+3D models can be found here: https://www.thingiverse.com/thing:6296607 
